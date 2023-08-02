@@ -1,0 +1,63 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@restart/hooks": "^0.4.5",
+    "@testing-library/jest-dom": "^5.11.6",
+    "@testing-library/react": "^11.2.2",
+    "@testing-library/user-event": "^12.6.0",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.5.3",
+    "chokidar": "^3.0.0",
+    "core-js": "^3.20.0",
+    "joi": "^17.5.0",
+    "jquery": "^3.6.0",
+    "jquery-particles": "^1.37.5",
+    "nth-check": "^2.0.1",
+    "popper.js": "^1.16.1",
+    "react": "^16.8.0",
+    "react-bootstrap": "^1.4.0",
+    "react-dom": "^16.8.0",
+    "react-github-calendar": "^2.0.2",
+    "react-icons": "^4.2.0",
+    "react-parallax-tilt": "^1.4.68",
+    "react-pdf": "^5.6.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^5.0.0",
+    "react-tooltip": "^3.9.0",
+    "react-tsparticles": "^1.37.5",
+    "resolve-url": "^0.2.1",
+    "tsparticles": "^1.18.12",
+    "typescript": "^4.5.4",
+    "typewriter-effect": "^2.17.0",
+    "urix": "^0.1.0",
+    "uuid": "^7.0.0",
+    "web-vitals": "^0.2.4",
+    "worker-loader": "^3.0.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
