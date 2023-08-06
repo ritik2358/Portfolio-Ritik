@@ -19,6 +19,7 @@ function Home2() {
               Let me <span className="purple"> Introduce </span> Myself
             </h1>
             <p className="home-about-body">
+              I'm an <span className="purple">Enthusiastic Learner </span> and a <span className="purple">passionate Developer  </span>pursuing my final year of Bachelor's degree in <span className="purple">Computer Science</span> at Dayananda Sagar College of Engineering, Bengaluru.
               My journey in the world of programming began with a fascination for creating digital solutions. I have honed my skills in classics like
               <i>
                 <b className="purple"> C/C++, HTML&CSS, Javascript, and Java.</b>

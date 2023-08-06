@@ -5,6 +5,7 @@ import Container from "react-bootstrap/Container";
 import Button from "react-bootstrap/Button";
 import { Link } from "react-router-dom";
 import { CgGitFork } from "react-icons/cg";
+// import logo from '../Assets/Rr.png'
 
 import {
   AiFillStar,
@@ -39,7 +40,7 @@ function NavBar() {
       <Container>
         <Navbar.Brand href="/" className="d-flex">
           {/* <img src={logo} className="img-fluid logo" alt="brand" /> */}
-          <h1 className="purple"><b>&lt;Rr /&gt;</b></h1>
+          <h1 className="purple"><b>&lt; Rr &gt;</b></h1>
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
