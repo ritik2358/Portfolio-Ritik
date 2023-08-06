@@ -1,9 +1,10 @@
 <h2 align="center">
   Portfolio Website<br/>
-<!--   <a href="https://soumyajit.vercel.app/" target="_blank">Ritik Raj</a> -->
+  <a href="https://portfolio-ritik.vercel.app/" target="_blank">Ritik Raj</a>
 </h2>
 <div align="center">
-  <img width="960" alt="image" src="https://github.com/ritik2358/Portfolio-Ritik/assets/98156555/466ad1b2-90a0-4361-a717-6e1f6e9079c0">
+ <img width="959" alt="image" src="https://github.com/ritik2358/Portfolio-Ritik/assets/98156555/242f260b-1c01-469e-945c-74000104629a">
+
 
 </div>
 
