@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import LiveSession_App from "../../Assets/Projects/livesession.jpeg";
+import kanban from "../../Assets/Projects/kanban-board.png";
 import NodeMailer from "../../Assets/Projects/Nodemailer.png";
 import Decharge from "../../Assets/Projects/Decharge.jpeg";
 import FoodHub from "../../Assets/Projects/foodhub.png";
@@ -78,12 +78,12 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={LiveSession_App}
+              imgPath={kanban}
               isBlog={false}
-              title="Live Session App"
-              description="This is a Live Session App for neatSkills that allows users to schedule and host meetings using the Jitsi Meet External API. With this app, users can easily create and join video conferences with participants."
-              ghLink="https://github.com/ritik2358/LiveSession_App"
-              demoLink="https://live-session-app.vercel.app/"
+              title="Kanban Board Task Management"
+              description="This is a Kanban board-inspired task management application that allows users to efficiently manage tasks across different stages of completion. The application provides a seamless and intuitive interface for users to organize their tasks and keep track of their progress."
+              ghLink="https://github.com/ritik2358/Kanban-board"
+              demoLink="https://github.com/ritik2358/Kanban-board"
 
             />
           </Col>
