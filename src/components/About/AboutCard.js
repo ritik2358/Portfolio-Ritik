@@ -8,10 +8,10 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hey Folks! I'm <span className="purple">Ritik Raj</span>, a passionate
+            Hey Folks! I'm <span className="purple">Ritik Raj</span>, a passionate Software
             Developer based in <span className="purple">Bangalore, India</span>.
             <br /> I'm currently in my final year of my Computer Science degree at Dayananda Sagar College of Engineering, Bengaluru,
-            I thrive on turning innovative ideas into digital realities.
+            I thrive on turning innovative ideas into digital realities by :
           </p>
           <ul>
             <li className="about-activity">
@@ -33,10 +33,10 @@ function AboutCard() {
           Apart from coding, some other activities that I love to do!
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Cooking Food
             </li>
             <li className="about-activity">
-              <ImPointRight /> Cooking Food
+              <ImPointRight /> Playing Games
             </li>
             <li className="about-activity">
               <ImPointRight /> Travelling
