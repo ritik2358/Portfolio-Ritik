@@ -18,7 +18,7 @@
 Hello there! Welcome to my portfolio website, where I showcase my journey and passion in the world of technology. As a final year Computer Science student I'm enthusiastic about coding, building innovative solutions, and exploring the vast possibilities in the digital realm.
 
 <div align="center">
-   <img width="959" alt="image" src="https://github.com/ritik2358/Portfolio-Ritik/assets/98156555/242f260b-1c01-469e-945c-74000104629a">
+   <img width="957" alt="image" src="https://github.com/ritik2358/Portfolio-Ritik/assets/98156555/d5cc30a8-579b-47c4-982c-519514b2136c">
 </div>
 
 ## Built With 🛠️
