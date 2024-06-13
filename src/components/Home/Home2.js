@@ -18,7 +18,25 @@ function Home2() {
             <h1 style={{ fontSize: "2.6em" }}>
               Let me <span className="purple"> Introduce </span> Myself
             </h1>
+
             <p className="home-about-body">
+              I'm an <span className="purple">Enthusiastic Learner</span> and a <span className="purple">passionate Software Developer</span>. I recently graduated with a Bachelor's degree in <span className="purple">Computer Science</span> from Dayananda Sagar College of Engineering, Bengaluru.
+              My journey in the world of programming began with a fascination for creating digital solutions. I have honed my skills in languages like
+              <i>
+                <b className="purple">C/C++, C#, JavaScript, TypeScript, and Java.</b>
+              </i>
+              <br />
+              <br />
+              My passion lies in building cutting-edge <i><b className="purple">web technologies and products</b></i>, and I'm also drawn to the realms of <i><b className="purple">DevOps</b></i>.
+              <br />
+              <br />
+              Utilizing my proficiency in <b className="purple">Node.js</b> and modern JavaScript libraries and frameworks including <i><b className="purple">React.js, Nest.js, Express.js, SvelteKit, and TailwindCSS</b></i>, I strive to create impactful and innovative web solutions.
+              <br />
+              <br />
+              Currently, I'm interning at <b className="purple">Light and Wonder</b>, where I'm working on <b className="purple">Operator Menu</b>, converting existing handlers to <b className="purple">WebSocket</b> handlers, and working on multiple UI screens using <b className="purple">React</b> and <b className="purple">TypeScript</b>.
+            </p>
+
+            {/* <p className="home-about-body">
               I'm an <span className="purple">Enthusiastic Learner </span> and a <span className="purple">passionate software Developer  </span>pursuing my final year of Bachelor's degree in <span className="purple">Computer Science</span> at Dayananda Sagar College of Engineering, Bengaluru.
               My journey in the world of programming began with a fascination for creating digital solutions. I have honed my skills in classics like
               <i>
@@ -30,7 +48,7 @@ function Home2() {
               <br />
               <br />
               Utilizing my proficiency in <b className="purple">Node.js</b> and modern JavaScript libraries and frameworks including <i><b className="purple">React.js, Nest.js, Express.js, and Redux.js</b></i>, I strive to create impactful and innovative web solutions.
-            </p>
+            </p> */}
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
