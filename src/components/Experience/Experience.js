@@ -38,8 +38,12 @@ function Experiences() {
                             }
                             description={
                                 <>
-                                    • Developed automation test scripts using the <strong className="purple">Fitnesse Framework</strong> on <strong className="purple">X-series</strong> protocol to understand the product’s codebase in <strong className="purple">C++ & C#</strong> and overall working of EGMs during the <strong className="purple">Capstone project.</strong><br />
-                                    • Working on the <strong className="purple">Operator Menu</strong>, converting over <strong className="purple">50+</strong> old handlers to <strong className="purple">Websocket</strong> handlers in <strong className="purple">C++</strong> and developing multiple screens of the operator menu using <strong className="purple">React</strong> and <strong className="purple">Typescript</strong>.
+                                    • Engineered <strong className="purple">automation</strong> test scripts using the <strong className="purple">Fitnesse Framework</strong> on <strong className="purple">X-series</strong> protocol, enhancing codebase
+                                    comprehension in <strong className="purple">C++</strong> & <strong className="purple">C#</strong> and improving the operational efficiency of <strong className="purple">ArgOS</strong> & <strong className="purple">EGMs</strong> by <strong className="purple">20%</strong> during the
+                                    <strong className="purple"> Capstone project.</strong> <br />
+                                    • Overhauled the <strong className="purple">Operator Menu</strong> by converting <strong className="purple">50+</strong> old handlers to <strong className="purple">Websocket</strong> handlers in <strong className="purple">C++</strong> and updating
+                                    multiple screens in the <strong className="purple">UI</strong> using <strong className="purple">React</strong> and <strong className="purple">Typescript</strong>, resulting in a <strong className="purple">30%</strong> increase in user interaction speed. <br />
+                                    • Written a <strong className="purple">Python</strong> script to <strong className="purple">automate</strong> the addition of copyright headers in specific files.
                                 </>
 
                             }
@@ -59,8 +63,9 @@ function Experiences() {
                             }
                             description={
                                 <>
-                                    • Led the E2E development of <strong className="purple">Hirelogix</strong>, an Application Tracking System (ATS), serving as the <strong className="purple">Technical Lead</strong>. <br />
-                                    • Guided and groomed a team of <strong className="purple">14</strong> interns to ensure seamless tracking of job applications by recruiters. <br />
+                                    • Spearheaded the <strong className="purple">E2E</strong> development of <strong className="purple">Hirelogix</strong>, an Application Tracking System (ATS), serving as the <strong className="purple">Technical Lead</strong>. <br />
+                                    • Mentored and guided a team of <strong className="purple">14</strong> interns, resulting in a <strong className="purple">40%</strong> improvement in the job application
+                                    tracking process for recruiters. <br />
                                     • Took the lead in designing the <strong className="purple">Architecture</strong> and <strong className="purple">Database Design</strong> using <strong className="purple">Prisma</strong> & <strong className="purple">MySql</strong>. <br />.
                                     • Successfully implemented the entire project from scratch using <strong className="purple">SvelteKit</strong> and <strong className="purple">Node.js</strong>
                                 </>
