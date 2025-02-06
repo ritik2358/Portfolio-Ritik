@@ -41,8 +41,8 @@ function Experiences() {
                                     • Engineered <strong className="purple">automation</strong> test scripts using the <strong className="purple">Fitnesse Framework</strong> on <strong className="purple">X-series</strong> protocol, enhancing codebase
                                     comprehension in <strong className="purple">C++</strong> & <strong className="purple">C#</strong> and improving the operational efficiency of <strong className="purple">ArgOS</strong> & <strong className="purple">EGMs</strong> by <strong className="purple">20%</strong> during the
                                     <strong className="purple"> Capstone project.</strong> <br />
-                                    • Overhauled the <strong className="purple">Operator Menu</strong> by converting <strong className="purple">50+</strong> old handlers to <strong className="purple">Websocket</strong> handlers in <strong className="purple">C++</strong> and updating
-                                    multiple screens in the <strong className="purple">UI</strong> using <strong className="purple">React</strong> and <strong className="purple">Typescript</strong>, resulting in a <strong className="purple">30%</strong> increase in user interaction speed. <br />
+                                    • Redesigned the <strong className="purple">Operator Menu</strong> by replacing <strong className="purple">50+</strong> legacy handlers to <strong className="purple">Websocket</strong> handlers in <strong className="purple">C++</strong> and modernizing
+                                    multiple <strong className="purple"> UI </strong> screens using <strong className="purple">React</strong> and <strong className="purple">Typescript</strong>, enhancing user interaction speed by <strong className="purple">30%</strong> <br />
                                     • Written a <strong className="purple">Python</strong> script to <strong className="purple">automate</strong> the addition of copyright headers in specific files.
                                 </>
 

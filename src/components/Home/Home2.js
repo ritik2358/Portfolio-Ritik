@@ -23,7 +23,7 @@ function Home2() {
               I'm an <span className="purple">Enthusiastic Learner</span> and a <span className="purple">passionate Software Developer</span>. I recently graduated with a Bachelor's degree in <span className="purple">Computer Science</span> from Dayananda Sagar College of Engineering, Bengaluru.
               My journey in the world of programming began with a fascination for creating digital solutions. I have honed my skills in languages like
               <i>
-                <b className="purple">C/C++, C#, JavaScript, TypeScript, and Java.</b>
+                <b className="purple">C/C++, C#, JavaScript, TypeScript, SQL and Java.</b>
               </i>
               <br />
               <br />
@@ -33,7 +33,7 @@ function Home2() {
               Utilizing my proficiency in <b className="purple">Node.js</b> and modern JavaScript libraries and frameworks including <i><b className="purple">React.js, Nest.js, Express.js, SvelteKit, and TailwindCSS</b></i>, I strive to create impactful and innovative web solutions.
               <br />
               <br />
-              Currently, I'm interning at <b className="purple">Light and Wonder</b>, where I'm working on <b className="purple">Operator Menu</b>, converting existing handlers to <b className="purple">WebSocket</b> handlers, and working on multiple UI screens using <b className="purple">React</b> and <b className="purple">TypeScript</b>.
+              Currently, I'm an <b className='purple'>Associate Software Engineer</b> at <b className='purple'>Light and Wonder</b>, building scalable <b className='purple'>REST APIs</b> in <b className='purple'>ASP.NET Core</b> & <b className='purple'>PostgreSQL</b>, optimizing gameplay with <b className='purple'>LoadTest</b> (React.js, Python), and enhancing <b className='purple'>ETG Server</b> simulators for seamless <b className='purple'>PT-DT</b> communication.
             </p>
 
             {/* <p className="home-about-body">
