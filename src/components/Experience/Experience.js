@@ -16,7 +16,7 @@ function Experiences() {
                     Journey through Code: <strong className="purple">Experiences</strong>
                 </h1>
                 <p style={{ color: "white" }}>
-                    Explore a compilation of live projects from my internships, showcasing my hands-on experience in turning ideas into reality.
+                    Explore a compilation of live projects from my internships and my current full-time engineering work, showcasing hands-on experience in turning ideas into reliable software.
                 </p>
 
 
@@ -31,9 +31,39 @@ function Experiences() {
                             isBlog={false}
                             title={
                                 <>
+                                    Associate Software Engineer
+                                    <br />
+                                    (Aug 2024 - Present)
+                                </>
+                            }
+                            description={
+                                <>
+                                    • Designed and deployed <strong className="purple">60+ REST APIs</strong> using <strong className="purple">ASP.NET Core</strong>, migrating from a monolithic MVVM architecture to a scalable Web API system.
+                                    <br />
+                                    • Built a wizard-based bulk table provisioning system, reducing gameplay setup time by <strong className="purple">90%</strong> (<strong className="purple">2 days → few hours</strong>).
+                                    <br />
+                                    • Supported migration from <strong className="purple">.NET Framework</strong> to <strong className="purple">.NET Core</strong> and created a runtime DB abstraction layer for <strong className="purple">MSSQL</strong>/<strong className="purple">PostgreSQL</strong> on Linux.
+                                    <br />
+                                    • Delivered internal tools in <strong className="purple">React.js</strong>, <strong className="purple">Python</strong>, and <strong className="purple">MSSQL</strong> to cut manual load testing and performance analysis by <strong className="purple">50%</strong>.
+                                    <br />
+                                    • Reduced deployment effort with a Python automation tool and moved config logic to JSON-based <strong className="purple">Config SRM</strong>, improving dynamic UI control and QA cycles.
+                                    <br />
+                                    • Resolved production-critical issues in <strong className="purple">AdminConsole</strong> and <strong className="purple">ETS Server</strong>, while contributing to releases across the US, China, Korea, and Singapore markets.
+                                </>
+
+                            }
+                            certLink="https://drive.google.com/file/d/1vySBcQYuwnY91RQn0nUm4SRLfp1K7h6i/view?usp=sharing"
+                        />
+                    </Col>
+                    <Col md={4} className="project-card">
+                        <ExperienceCards
+                            imgPath={lnw}
+                            isBlog={false}
+                            title={
+                                <>
                                     Software Engineer Intern
                                     <br />
-                                    (Mar 2024 - Present)
+                                    (Mar 2024 - July 2024)
                                 </>
                             }
                             description={
@@ -50,7 +80,7 @@ function Experiences() {
                             certLink="https://drive.google.com/file/d/1vySBcQYuwnY91RQn0nUm4SRLfp1K7h6i/view?usp=sharing"
                         />
                     </Col>
-                    <Col md={4} className="project-card">
+                    {/* <Col md={4} className="project-card">
                         <ExperienceCards
                             imgPath={Alhansat}
                             isBlog={false}
@@ -73,7 +103,7 @@ function Experiences() {
                             }
                             certLink="https://drive.google.com/file/d/1eAT3rxRbf8aSX_ZGhOKCcOWjz8eD2XJH/view?usp=sharing"
                         />
-                    </Col>
+                    </Col> */}
                     <Col md={4} className="project-card">
                         <ExperienceCards
                             imgPath={CI}

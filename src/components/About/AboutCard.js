@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hey Folks! I'm <span className="purple">Ritik Raj</span>, a passionate Software
             Developer based in <span className="purple">Bangalore, India</span>.
-            <br /> I recently graduated with a Bachelor's degree in Computer Science from Dayananda Sagar College of Engineering, Bengaluru.
+            <br /> I bring over two years of professional experience delivering backend systems, APIs, and web applications at <span className="purple">Light and Wonder</span>.
             I thrive on turning innovative ideas into digital realities by :
           </p>
           <ul>
@@ -24,7 +24,9 @@ function AboutCard() {
               <ImPointRight /> Building Impactful Web Solutions
             </li>
           </ul>
-
+          <p style={{ textAlign: "justify" }}>
+            I am a strong fit for teams that value pragmatic engineering, quality delivery, and product-focused collaboration.
+          </p>
           <p style={{ color: "rgb(155 126 172)" }}>
             "Code by code, I shape the future, inspired by challenges and driven by endless possibilities."{" "}
           </p>

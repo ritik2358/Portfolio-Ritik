@@ -20,20 +20,23 @@ function Home2() {
             </h1>
 
             <p className="home-about-body">
-              I'm an <span className="purple">Enthusiastic Learner</span> and a <span className="purple">passionate Software Developer</span>. I recently graduated with a Bachelor's degree in <span className="purple">Computer Science</span> from Dayananda Sagar College of Engineering, Bengaluru.
-              My journey in the world of programming began with a fascination for creating digital solutions. I have honed my skills in languages like
+              I'm an <span className="purple">experienced Software Engineer</span> with over two years of hands-on experience at <span className="purple">Light and Wonder</span>. I build reliable backend systems and modern web solutions while collaborating closely with product and QA teams.
+              My journey in software began with a fascination for creating digital solutions, and I have honed my skills in languages like
               <i>
                 <b className="purple">C/C++, C#, JavaScript, TypeScript, SQL and Java.</b>
               </i>
               <br />
               <br />
-              My passion lies in building cutting-edge <i><b className="purple">web technologies and products</b></i>, and I'm also drawn to the realms of <i><b className="purple">DevOps</b></i>.
+              I enjoy building cutting-edge <i><b className="purple">web products</b></i> and improving delivery through strong engineering practices and a growth mindset.
               <br />
               <br />
-              Utilizing my proficiency in <b className="purple">Node.js</b> and modern JavaScript libraries and frameworks including <i><b className="purple">React.js, Nest.js, Express.js, SvelteKit, and TailwindCSS</b></i>, I strive to create impactful and innovative web solutions.
+              Utilizing my proficiency in <b className="purple">Node.js</b> and modern JavaScript libraries and frameworks including <i><b className="purple">React.js, Nest.js, Express.js, SvelteKit, and TailwindCSS</b></i>, I strive to create impactful and innovative solutions.
               <br />
               <br />
               Currently, I'm an <b className='purple'>Associate Software Engineer</b> at <b className='purple'>Light and Wonder</b>, building scalable <b className='purple'>REST APIs</b> in <b className='purple'>ASP.NET Core</b> & <b className='purple'>PostgreSQL</b>, optimizing gameplay with <b className='purple'>LoadTest</b> (React.js, Python), and enhancing <b className='purple'>ETG Server</b> simulators for seamless <b className='purple'>PT-DT</b> communication.
+              <br />
+              <br />
+              I'm actively looking to bring this experience to a team that values quality, product impact, and collaborative engineering.
             </p>
 
             {/* <p className="home-about-body">
