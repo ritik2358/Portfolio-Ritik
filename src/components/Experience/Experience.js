@@ -4,7 +4,6 @@ import Particle from "../Particle";
 // import brane from "../../Assets/Experience/brane.jpeg";
 import lnw from "../../Assets/Experience/LnW_Logo.jpg";
 import CI from "../../Assets/Experience/codeinbound logo.png";
-import Alhansat from "../../Assets/Experience/Alhansat.jpeg";
 import ExperienceCards from "./ExperienceCards";
 
 function Experiences() {
